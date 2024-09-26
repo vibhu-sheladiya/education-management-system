@@ -1,6 +1,11 @@
-🎓 Education Management System
+                                       🎓 Education Management System
+
+
+
 📘 Overview
 This project is an education management platform that allows administrators, teachers, and students to interact with the system efficiently. The system facilitates course management, user enrollment, and grade tracking, with a focus on role-based access control to ensure each user has access to only the features they need.
+
+
 
 ✨ Key Features
 🔐 User Registration and Authentication: Supports user sign-up and login using JWT (JSON Web Token) to securely authenticate users.
