@@ -1,4 +1,3 @@
-To add spaces between the lines or rows of your overview, you can simply add blank lines (by pressing `Enter` twice) to ensure better readability. Here's your description with spaces between rows:
 
 ---
 
