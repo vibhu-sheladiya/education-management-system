@@ -21,4 +21,4 @@ Clone the Repository: To get started, clone the project repository to your local
 
 bash
 Copy code
-git clone https://github.com/mokariya-mohit/Education-Management.git
+git clone https://github.com/vibhu-sheladiya/Education-Management-system.git
